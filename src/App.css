@@ -1,0 +1,16 @@
+.app {
+  padding: 30px;
+  background-color: burlywood;
+  color: brown;
+  margin:100px;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+#button{
+  margin-left:500px;
+}
